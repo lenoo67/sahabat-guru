@@ -1,0 +1,5 @@
+{
+  "name": "Sahabat Guru",
+  "description": "Aplikasi Pembuat Soal Otomatis using Gemini 2.5 and Imagen 4.",
+  "requestFramePermissions": []
+}
